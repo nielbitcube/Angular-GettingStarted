@@ -27,3 +27,5 @@ To install packages in Stackblitz, such as bootstrap and font-awesome, you need 
 5) Repeat step 3 with font-awesome
 
 Stackblitz does not seem to recognize the Font Awesome icons. So you will instead see portions of squares.
+
+Change Test
